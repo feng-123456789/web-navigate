@@ -7,7 +7,7 @@
 
 ## 在线预览
 
-[[https://geeeeeeeek.github.io/web_tool/](https://feng-123456789.github.io/web-navigate/)](https://feng-123456789.github.io/web-navigate/)
+https://feng-123456789.github.io/web-navigate/
 
 
 ## 二次开发
